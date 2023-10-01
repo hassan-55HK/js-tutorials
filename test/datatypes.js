@@ -1,6 +1,6 @@
 "use strict" // this is to let know our brower to treat all js as newer version.
 
-//There are Seven Primaray Data Types in JS. Let's explore each datatype below.
+//There are Seven Primitive Data Types in JS. Let's explore each datatype below.
 
 const userName = "Hassan"; //string
 
