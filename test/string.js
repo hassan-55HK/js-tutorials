@@ -61,3 +61,10 @@ console.log(userName.indexOf('c'))
 //Replace is used to replace value of a string with a new one.
 
 console.log(userEmail.replace("       ", "1122"))
+
+//the modern way to concatenate a string to a variable is.
+//console.log(`Hello world from ${userName})
+//I have also wondered many times that what is ` ?? how to use it then searched for it and learned it 
+//shift+` which gives us an output as (~) ` which comes before 1 or !.
+
+console.log(`Hello world from ${userName}`)
