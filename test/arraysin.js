@@ -14,3 +14,13 @@ console.log(myArr7)
 //Join() it is used to convert an array to a string.
 myArr = myArr7.join();
 console.log(myArr)
+//and if want to know the value exists in array so how would we do that?
+//Using .isArray()
+console.log(Array.isArray("Hassan"))
+//if it exists in arrays so it will print true if not then it will print false.
+//and if you have declared numbers and want to print in arrays.
+//ofArray()
+let num2 = 90;
+let num5 = -90;
+let num7 = 23;
+console.log(Array.of(num2, num5 , num7))
